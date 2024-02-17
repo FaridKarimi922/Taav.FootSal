@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Library.Services/1.0.0": {
+        "dependencies": {
+          "Librari.Entitis": "1.0.0",
+          "Taav.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Library.Services.dll": {}
+        }
+      },
+      "Librari.Entitis/1.0.0": {
+        "runtime": {
+          "Librari.Entitis.dll": {}
+        }
+      },
+      "Taav.Contracts/1.0.0": {
+        "runtime": {
+          "Taav.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Librari.Entitis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Taav.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JULZL590w/K6XP/w3qc3SKW+RZpts1Y6jejtclRy4tPd6DzOpumt8fK0roDLuHINVckOnF6piH0JmNws0klHDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peyman\\source\\repos\\Library.Architecture2\\Library.RestApi\\Football.RestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peyman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\peyman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\peyman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\peyman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\peyman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\peyman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\bin\Debug\net8.0\Librari.Entitis.deps.json
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\bin\Debug\net8.0\Librari.Entitis.dll
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\bin\Debug\net8.0\Librari.Entitis.pdb
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.AssemblyInfoInputs.cache
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.AssemblyInfo.cs
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.csproj.CoreCompileInputs.cache
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.sourcelink.json
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.dll
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\refint\Librari.Entitis.dll
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\Librari.Entitis.pdb
+C:\Users\peyman\source\repos\Library.Architecture2\Librari.Entitis\obj\Debug\net8.0\ref\Librari.Entitis.dll
